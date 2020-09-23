@@ -4,4 +4,4 @@ sass -v
 gem install compass
 compass -v
 
-sass --watch estilos.scss:estilos.css
+sass --watch estilos.scss:estilos.css -> Verificar arquivos modificados
